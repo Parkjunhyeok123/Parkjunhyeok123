@@ -12,8 +12,7 @@
 - ⚡ 재미있는 사실: 전기차 충전소를 찾는 앱을 개발한 적이 있습니다. 🚗🔌
 
 
-
-!(https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=ffffff)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=ffffff)
