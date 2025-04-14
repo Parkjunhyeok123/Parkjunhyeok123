@@ -1,16 +1,12 @@
-## Hi there 👋
+## 안녕하세요 👋
 
-<!--
-**Parkjunhyeok123/Parkjunhyeok123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+저의 GitHub 프로필에 오신 것을 환영합니다! 저는 혁신적인 앱을 개발하고 문제를 해결하는 것을 좋아하는 소프트웨어 엔지니어입니다. 아래는 제 소개입니다:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 현재 Android Studio와 Firebase를 사용하여 실시간 번역 및 수정앱을 개발 중입니다.
+- 🌱 현재 고급 Android 개발, Firebase 통합, 실시간 데이터 처리 기술을 배우고 있습니다.
+- 👯 ##와 관련된 프로젝트에 협업하고 싶습니다.
+- 🤔 모바일 애플리케이션 성능 최적화에 대한 고급 기술에 대해 도움을 구하고 있습니다.
+- 💬 Android 개발, Firebase, Java, C++ 또는 프로젝트 관리에 대해 궁금한 점을 물어보세요.
+- 📫 연락 방법: [park0630p@naver.com]
+- 😄 성별: 남성 (He/Him)
+- ⚡ 재미있는 사실: 전기차 충전소를 찾는 앱을 개발한 적이 있습니다. 🚗🔌
