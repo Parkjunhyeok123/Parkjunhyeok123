@@ -15,7 +15,7 @@
       <li class="contact-info">📫 연락 방법: <a href="mailto:park0630p@naver.com">park0630p@naver.com</a></li>
       <li>😄 성별: 남성 (He/Him)</li>
       <li>⚡ 재미있는 사실: 전기차 충전소를 찾는 앱을 개발한 적이 있습니다. 🚗🔌</li>
-      <li>⚡ 제가 만든 앱들에 대해 자세히 있는 웹입니다. <a href=" https://parkjunhyeok123.github.io/my-homepage/">https://parkjunhyeok123.github.io/my-homepage/</a> </li>
+      <li>⚡ 제가 만든 앱들에 대해 자세히 있는 웹입니다. <a href="https://parkjunhyeok123.github.io/my-homepage/">https://parkjunhyeok123.github.io/my-homepage/</a> </li>
     </ul>
   </div>
 
