@@ -32,9 +32,9 @@
 
 <h2> My tech Stack </h2>
 
-![replay_kit]
-![Testpresso]
-![Lge_ATS]
+![replay_kit](https://img.shields.io/badge/-replay__kit-4CAF50?style=for-the-badge&logoColor=ffffff)
+![Testpresso](https://img.shields.io/badge/-Testpresso-FF6F00?style=for-the-badge&logoColor=ffffff)
+![Lge_ATS](https://img.shields.io/badge/-Lge__ATS-A50034?style=for-the-badge&logoColor=ffffff)
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
