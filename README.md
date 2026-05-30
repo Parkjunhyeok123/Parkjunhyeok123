@@ -22,7 +22,8 @@
 
 
 <h2> My tech Stack </h2>
-
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
+![ADB](https://img.shields.io/badge/-ADB-34A853?style=for-the-badge&logo=android&logoColor=ffffff)
 ![replay_kit](https://img.shields.io/badge/-replay__kit-4CAF50?style=for-the-badge&logoColor=ffffff)
 ![Testpresso](https://img.shields.io/badge/-Testpresso-FF6F00?style=for-the-badge&logoColor=ffffff)
 ![Lge_ATS](https://img.shields.io/badge/-Lge__ATS-A50034?style=for-the-badge&logoColor=ffffff)
