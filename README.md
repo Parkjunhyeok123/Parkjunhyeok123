@@ -8,15 +8,6 @@
     <ul>
       <li>🔭 현재 Android Studio와 Firebase를 사용하여 실시간 번역 및 수정앱을 개발 중입니다.</li>
       <li>🔭 현재 Sw테스팅 회사에 근무 중입니다.</li>
-      <li>🔭 Testpresso 와 Ats와 replaykit 사용
-  <h1>안녕하세요 👋</h1>
-
-  <div class="section">
-    <h2>소개</h2>
-    <p>저의 GitHub 프로필에 오신 것을 환영합니다! 저는 혁신적인 앱을 개발하고 문제를 해결하는 것을 좋아하는 소프트웨어 엔지니어입니다. 아래는 제 소개입니다:</p>
-    <ul>
-      <li>🔭 현재 Android Studio와 Firebase를 사용하여 실시간 번역 및 수정앱을 개발 중입니다.</li>
-      <li>🔭 현재 Sw테스팅 회사에 근무 중입니다.</li>
       <li>🔭 Testpresso와 Lge_Ats 와 replaykit 테스팅 도구 개발중</li>
       <li>🌱 현재 고급 Android 개발, Firebase 통합, 실시간 데이터 처리 기술을 배우고 있습니다.</li>
       <li>👯 관련된 프로젝트에 협업하고 싶습니다.</li>
